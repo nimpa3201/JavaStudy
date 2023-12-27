@@ -33,5 +33,6 @@ public class Main {
         Product p1 = new Tv();
         Product p2 = new Computer();
         Product p3 = new Audio();
+        System.out.println(p1.price);
     }
 }
